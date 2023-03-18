@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+
+.test{
+	background-color: purple;
+	color: white;
+	width: 200px;
+	border-left: 5px green solid;
+	font-size: 20px;
+	padding: 10px;
+}
+
+
